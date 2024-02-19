@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thistestrepo/static/css/main.bd29cbee.css",
+    "main.js": "/thistestrepo/static/js/main.0bf43c76.js",
+    "static/js/453.de55548b.chunk.js": "/thistestrepo/static/js/453.de55548b.chunk.js",
+    "index.html": "/thistestrepo/index.html",
+    "main.bd29cbee.css.map": "/thistestrepo/static/css/main.bd29cbee.css.map",
+    "main.0bf43c76.js.map": "/thistestrepo/static/js/main.0bf43c76.js.map",
+    "453.de55548b.chunk.js.map": "/thistestrepo/static/js/453.de55548b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd29cbee.css",
+    "static/js/main.0bf43c76.js"
+  ]
+}
